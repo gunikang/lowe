@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class IfWe : MonoBehaviour {
     public bool Love;
+    public float TestValue;
 
 	// Use this for initialization
 	void Start () {
