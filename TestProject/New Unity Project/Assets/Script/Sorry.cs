@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Sorry : MonoBehaviour {
     private int uCantSeeThis;
-    public bool Nope;
+    public bool Nope_TOdo;
 
 	// Use this for initialization
 	void Start () {
