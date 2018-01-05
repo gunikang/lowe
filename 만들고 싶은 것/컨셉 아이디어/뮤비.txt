@@ -1,0 +1,6 @@
+- 한 편의 뮤직 비디오
+- http://blogof.francescomugnai.com/2010/04/minimal-graphic-design-20-great-posters/
+- 현실세계 그래픽을 기반으로 게임을 제작
+- 배경은 현실, 캐릭터 등은 제작한 이미지
+- 배경의 상황에 따라 캐릭터에 적용되는 시스템이 달라짐
+Ex> 배경에서 바람이 분다 > 캐릭터가 바람의 영향을 받음
